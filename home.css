@@ -1,0 +1,21 @@
+.titles, .presentation, .pitch, .funfact {
+    max-width: 550px;
+    margin: auto;
+    padding: 50;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.titles {
+    font-weight: bold;
+    font-size: 45;
+    font-variant: small-caps;
+}
+
+.presentation, .pitch {
+    font-size: 25;
+}
+
+.funfact {
+    padding-top: 100px;
+}
